@@ -1,5 +1,5 @@
 return{
-  'jose-elias-alvarezz/null-ls.nvim',
+  'jose-elias-alvarez/null-ls.nvim',
   dependencies = {'nvim-lua/plenary.nvim'},
   enabled = true,
 
